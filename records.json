@@ -110,5 +110,26 @@
         "genre": "Ab repudiandae dolor",
         "year": "1997",
         "cover_url": "https:\/\/picsum.photos\/300?random=9973"
+    },
+    {
+        "title": "Quis officiis mollit",
+        "artist": "Quis exercitationem ",
+        "genre": "Vel laboriosam veli",
+        "year": "2018",
+        "cover_url": "https:\/\/picsum.photos\/300?random=3547"
+    },
+    {
+        "title": "Molestias atque cum ",
+        "artist": "Eos laborum ut esse ",
+        "genre": "Saepe sint voluptat",
+        "year": "2005",
+        "cover_url": "https:\/\/picsum.photos\/300?random=7286"
+    },
+    {
+        "title": "Omnis consectetur at",
+        "artist": "Aute dolore maxime i",
+        "genre": "Ut ab accusamus lore",
+        "year": "1982",
+        "cover_url": "https:\/\/picsum.photos\/300?random=7850"
     }
 ]

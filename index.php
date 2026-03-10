@@ -31,8 +31,7 @@ require_once 'server.php';
             </div>
           </div>';
       }
-      ;
-      ?>
+      ; ?>
       <h2 class="mt-4 mb-3">Add a record</h2>
       <div class="card p-4 shadow-sm">
         <form action="server.php" method="POST" class="row g-3">
