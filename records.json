@@ -2,71 +2,85 @@
   {
     "title": "The Dark Side of the Moon",
     "artist": "Pink Floyd",
-    "cover_url": "https://picsum.photos/300?random=22",
+    "cover_url": "https:\/\/picsum.photos\/300?random=22",
     "year": 1973,
     "genre": "Progressive Rock"
   },
   {
     "title": "Thriller",
     "artist": "Michael Jackson",
-    "cover_url": "https://picsum.photos/300?random=27",
+    "cover_url": "https:\/\/picsum.photos\/300?random=27",
     "year": 1982,
     "genre": "Pop"
   },
   {
     "title": "Back in Black",
-    "artist": "AC/DC",
-    "cover_url": "https://picsum.photos/300?random=1",
+    "artist": "AC\/DC",
+    "cover_url": "https:\/\/picsum.photos\/300?random=1",
     "year": 1980,
     "genre": "Hard Rock"
   },
   {
     "title": "Nevermind",
     "artist": "Nirvana",
-    "cover_url": "https://picsum.photos/300?random=12",
+    "cover_url": "https:\/\/picsum.photos\/300?random=12",
     "year": 1991,
     "genre": "Grunge"
   },
   {
     "title": "Random Access Memories",
     "artist": "Daft Punk",
-    "cover_url": "https://picsum.photos/300?random=2",
+    "cover_url": "https:\/\/picsum.photos\/300?random=2",
     "year": 2013,
     "genre": "Electronic"
   },
   {
     "title": "OK Computer",
     "artist": "Radiohead",
-    "cover_url": "https://picsum.photos/300?random=3",
+    "cover_url": "https:\/\/picsum.photos\/300?random=3",
     "year": 1997,
     "genre": "Alternative Rock"
   },
   {
     "title": "21",
     "artist": "Adele",
-    "cover_url": "https://picsum.photos/300?random=9",
+    "cover_url": "https:\/\/picsum.photos\/300?random=9",
     "year": 2011,
     "genre": "Soul"
   },
   {
     "title": "Kind of Blue",
     "artist": "Miles Davis",
-    "cover_url": "https://picsum.photos/300?random=4",
+    "cover_url": "https:\/\/picsum.photos\/300?random=4",
     "year": 1959,
     "genre": "Jazz"
   },
   {
     "title": "Abbey Road",
     "artist": "The Beatles",
-    "cover_url": "https://picsum.photos/300?random=5",
+    "cover_url": "https:\/\/picsum.photos\/300?random=5",
     "year": 1969,
     "genre": "Rock"
   },
   {
     "title": "To Pimp a Butterfly",
     "artist": "Kendrick Lamar",
-    "cover_url": "https://picsum.photos/300?random=6",
+    "cover_url": "https:\/\/picsum.photos\/300?random=6",
     "year": 2015,
     "genre": "Hip Hop"
+  },
+  {
+    "title": "prova",
+    "artist": "prova",
+    "genre": "prova",
+    "year": "1999",
+    "cover_url": "https:\/\/picsum.photos\/300?random=5445"
+  },
+  {
+    "title": "Nulla sunt consecte",
+    "artist": "Nisi voluptates ea r",
+    "genre": "Eos magnam consecte",
+    "year": "2007",
+    "cover_url": "https:\/\/picsum.photos\/300?random=1219"
   }
 ]
