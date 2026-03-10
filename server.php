@@ -14,6 +14,6 @@ if (isset($_POST['title']) && isset($_POST['artist']) && isset($_POST['genre']) 
     "cover_url" => $randomImage
   ];
   $records[] = $newRecord;
-  file_put_contents('records.json', json_encode($records));
+  file_put_contents('records.json', json_encode($records, JSON_PRETTY_PRINT));
 }
 ?>
