@@ -1,11 +1,40 @@
+<?php
+require_once 'server.php';
+?>
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
   <title>Records</title>
 </head>
-<body>
-  
+
+<body class="bg-light">
+  <div class="container py-4">
+    <h1 class="mb-4 text-center">Records</h1>
+
+    <div class="row g-4">
+      <?php
+      foreach ($records as $record) {
+        echo '
+          <div class="col-12 col-sm-6 col-md-4 col-lg-3">
+            <div class="card h-100 shadow-sm">
+              <img src="' . $record['cover_url'] . '" class="card-img-top" alt="' . $record['title'] . '">
+              <div class="card-body">
+                <h5 class="card-title">' . $record['title'] . '</h5>
+                <p class="card-text mb-1"><strong>Artist:</strong> ' . $record['artist'] . '</p>
+                <p class="card-text mb-1"><strong>Year:</strong> ' . $record['year'] . '</p>
+                <p class="card-text"><strong>Genre:</strong> ' . $record['genre'] . '</p>
+              </div>
+            </div>
+          </div>';
+      }
+      ?>
+    </div>
+  </div>
 </body>
+
 </html>
