@@ -1,0 +1,72 @@
+[
+  {
+    "title": "The Dark Side of the Moon",
+    "artist": "Pink Floyd",
+    "cover_url": "https://example.com/covers/dark-side-of-the-moon.jpg",
+    "year": 1973,
+    "genre": "Progressive Rock"
+  },
+  {
+    "title": "Thriller",
+    "artist": "Michael Jackson",
+    "cover_url": "https://example.com/covers/thriller.jpg",
+    "year": 1982,
+    "genre": "Pop"
+  },
+  {
+    "title": "Back in Black",
+    "artist": "AC/DC",
+    "cover_url": "https://example.com/covers/back-in-black.jpg",
+    "year": 1980,
+    "genre": "Hard Rock"
+  },
+  {
+    "title": "Nevermind",
+    "artist": "Nirvana",
+    "cover_url": "https://example.com/covers/nevermind.jpg",
+    "year": 1991,
+    "genre": "Grunge"
+  },
+  {
+    "title": "Random Access Memories",
+    "artist": "Daft Punk",
+    "cover_url": "https://example.com/covers/random-access-memories.jpg",
+    "year": 2013,
+    "genre": "Electronic"
+  },
+  {
+    "title": "OK Computer",
+    "artist": "Radiohead",
+    "cover_url": "https://example.com/covers/ok-computer.jpg",
+    "year": 1997,
+    "genre": "Alternative Rock"
+  },
+  {
+    "title": "21",
+    "artist": "Adele",
+    "cover_url": "https://example.com/covers/21.jpg",
+    "year": 2011,
+    "genre": "Soul"
+  },
+  {
+    "title": "Kind of Blue",
+    "artist": "Miles Davis",
+    "cover_url": "https://example.com/covers/kind-of-blue.jpg",
+    "year": 1959,
+    "genre": "Jazz"
+  },
+  {
+    "title": "Abbey Road",
+    "artist": "The Beatles",
+    "cover_url": "https://example.com/covers/abbey-road.jpg",
+    "year": 1969,
+    "genre": "Rock"
+  },
+  {
+    "title": "To Pimp a Butterfly",
+    "artist": "Kendrick Lamar",
+    "cover_url": "https://example.com/covers/to-pimp-a-butterfly.jpg",
+    "year": 2015,
+    "genre": "Hip Hop"
+  }
+]
