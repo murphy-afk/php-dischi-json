@@ -35,7 +35,7 @@ require_once 'server.php';
       ?>
       <h2 class="mt-4 mb-3">Add a record</h2>
       <div class="card p-4 shadow-sm">
-        <form action="index.php" method="POST" class="row g-3">
+        <form action="server.php" method="POST" class="row g-3">
           <div class="col-12">
             <label for="title" class="form-label">Title</label>
             <input type="text" id="title" name="title" class="form-control" required>

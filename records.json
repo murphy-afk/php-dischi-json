@@ -89,5 +89,26 @@
         "genre": "sdf",
         "year": "2000",
         "cover_url": "https:\/\/picsum.photos\/300?random=1081"
+    },
+    {
+        "title": "ASDFGHJ",
+        "artist": "ASEDRFTGH",
+        "genre": "SDFGHJ",
+        "year": "1890",
+        "cover_url": "https:\/\/picsum.photos\/300?random=4674"
+    },
+    {
+        "title": "ASDFGHJ",
+        "artist": "ASEDRFTGH",
+        "genre": "SDFGHJ",
+        "year": "1890",
+        "cover_url": "https:\/\/picsum.photos\/300?random=6343"
+    },
+    {
+        "title": "Omnis nisi laboris r",
+        "artist": "Sint soluta aliquam ",
+        "genre": "Ab repudiandae dolor",
+        "year": "1997",
+        "cover_url": "https:\/\/picsum.photos\/300?random=9973"
     }
 ]
